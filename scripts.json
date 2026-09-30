@@ -1,0 +1,22 @@
+{
+  "categorias": [
+    {
+      "id": "eggs",
+      "nome": "🥚 Eggs",
+      "scripts": [
+        {
+          "id": "roube_egg",
+          "emoji": "🥚",
+          "nome": "Roube um Egg",
+          "descricao": "Script clássico de roubar egg",
+          "conteudo": "```lua\nloadstring(game:HttpGet('COLE_O_LINK_AQUI'))()\n```"
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "nome": "🎮 Extras",
+      "scripts": []
+    }
+  ]
+}
